@@ -1,0 +1,15 @@
+{
+  "name": "Node_JS_basic",
+  "version": "1.0.0",
+  "description": "📖 NodeJS Basics. 📃 Topics Covered. This project involves learning NodeJS basics concept covered;",
+  "main": "0-console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  }
+}
