@@ -1,0 +1,19 @@
+# Ignore Redis database files (unless required for submission)
+dump.rdb
+appendonly.aof
+
+# Ignore Redis build artifacts
+*.o
+*.a
+*.so
+
+# Ignore logs
+*.log
+
+# Ignore backup files
+*~
+
+# Ignore tarballs and extracted source directories
+redis-6.0.10/
+redis-6.0.10.tar.gz
+redis-6.0.10.tar.gz.1
